@@ -1,6 +1,6 @@
 # TF2ChatBots
 TF2 Character cards and avatars.  
-05/06/25: This repository contains (1) a folder for full-size and alternative avatar images. (2) Character cards in JSON and PNG formats. Currently, the 9 classes are included.  
+05/06/25: This repository contains (1) a folder for full-size and alternative avatar images. (2) Character cards in JSON and PNG formats. Currently, the 9 classes are included. (3) Lorebook.  
 Card versions:  
 v1.0: Plain text. Very basic and compact. Short example dialogs. Maximum 2 greetings.  
 v2.0: Some edits. W++ formatting.  
